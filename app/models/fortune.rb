@@ -10,9 +10,3 @@ end
 #   return fortune_array.sample
 #   fortune_array.delete(fortune)
 #   return fortune
-
-
-
-# class Model
-#   # Replace with Dog clas
-# end
